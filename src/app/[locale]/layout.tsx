@@ -44,7 +44,7 @@ export default async function LocaleLayout({
                   `,
         }}
       />
-    <script defer data-domain="jsonhome.com" src="https://app.pageview.app/js/script.js"></script>
+    <script defer data-domain="unixtimeconverter.org" src="https://app.pageview.app/js/script.js"></script>
     </head>
     <body suppressHydrationWarning={true} className={clsx(inter.className, 'flex h-100vh flex-col bg-[#FAFAF9]')}>
     <CommonProvider>
